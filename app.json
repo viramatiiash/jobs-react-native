@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react-native-jobs",
+    "slug": "react-native-jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e41bf9ea-9a43-415c-a34a-91c2f0d80a58"
+      }
+    },
+    "android": {
+      "package": "com.virko.reactnativejobs"
+    }
+  }
+}
